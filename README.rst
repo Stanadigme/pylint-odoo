@@ -150,7 +150,7 @@ Enable custom checks for Odoo modules.
 Install
 -------
 
-``# pip install --upgrade git+https://github.com/oca/pylint-odoo.git``
+``# pip install --upgrade git+https://github.com/Stanadigme/pylint-odoo.git``
 
 Or
 
